@@ -20,9 +20,9 @@ The Pink Mountain Biodiversity Initiative is a privately funded study developed 
 
 ![](/cover-image-small.jpg)
 
-Download Link: <a>https://www.pinkmountain.ca/Pink-Mountain-Report.pdf</a>
+**Download Link:** <a>https://www.pinkmountain.ca/Pink-Mountain-Report.pdf</a>
 
-Download Link: <a>https://www.facebook.com/Golden-Ears-Map-229041467821896</a>
+*Download may take a few minutes* . . .
 
 
 ![](/spacer.png)
