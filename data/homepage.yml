@@ -1,0 +1,305 @@
+# banner
+banner:
+  title : "                            "
+
+# about
+about:
+  enable : true
+  content : "In the far north of British Columbia and on the easternmost edge of the Rocky Mountains lies Pink Mountain. Its unique combination of altitude, latitude and geology makes Pink Mountain one of a kind in the province and a very special place. The summit of Pink Mountain is Arctic/Alpine tundra – one of the harshest habitats on Earth. The biodiversity on Pink Mountain is astonishing but it is the community of rare and rarely seen plants that truly sets it apart."
+  button:
+    enable : true
+    label : "Find Out More"
+    URL : "about"
+
+# service
+service:
+  enable : false
+  title : "Services"
+  item:
+    - title : "Topographical Map Design"
+      icon : "ti-map"
+      content : "Custom designed topographical maps for hiking, boating, backcountry skiing or any other outdoor activity. We can include trails, contours, slope relief or anything else you require, designed to any scale or size. We work with an excellent local printing partner to meet your map production needs."
+      highlighted : false
+
+    - title : "Corporate Wall Maps"
+      icon : "ti-image"
+      content : "We design and produce large format maps (up to 4ft x 7ft) for wall mounting. Printed onto sintra with an option for lamination, these maps are excellent tools for corporate planning or locating regional sales offices. Can be designed at a local, national, or international scale."
+      highlighted : true
+
+    - title : "GIS Services"
+      icon : "ti-vector"
+      content : "Do you have GIS data which needs to be processed, tidied, or edited? We can do that. We can also take your GIS data and depict it in cartographic form."
+      highlighted : false
+
+    - title : "Maps for Tourism"
+      icon : "ti-map"
+      content : "Maps for your tourist attraction/location. We create location maps, site maps, maps of local attractions, sponsor funded maps and maps of local trail networks."
+      highlighted : true
+
+    - title : "Site Maps"
+      icon : "ti-layout"
+      content : "Taking satellite imagery or other planning documents as a starting point, we will produce a beautiful site map from that information, complete with labeling, icons and any other required annotation."
+      highlighted : false
+
+    - title : "Tourist Pamphlets/Leaflets"
+      icon : "ti-book"
+      content : "If you need your entire pamphlet or leaflet designed by us, then that is something we can do. We’ll add graphics and copy to the maps to create print ready products. Our print partner will then take it from there. Or use your own printer if you prefer."
+      highlighted : true
+
+    - title : "Guidebook Maps"
+      icon : "ti-book"
+      content : "If you need maps for a guidebook or other publication, we can produce those. Any number of maps, and in any format or style. We have created the maps for “best seller” publications such as “105 Hikes” and “Destination Hikes” along with several other publications."
+      highlighted : false
+
+    - title : "Historical Maps"
+      icon : "ti-time"
+      content : "Using historical data (supplied by you) we can create maps from any era of history at any location. In the past we’ve produced maps of the Roman Empire, WW2, WW1, Settlements on Lake Winnipeg  and law court display maps."
+      highlighted : true
+
+    - title : "Sporting Event Maps"
+      icon : "ti-timer"
+      content : "Organizing an outdoor sporting event such an Ultra-Marathon, Road Race, Cycling Event, Triathlon, or similar? Canadian Map Makers will create your event maps for any of these types of events, including all pertinent information for the event."
+      highlighted : false
+
+    - title : "Strategic Planning Maps"
+      icon : "ti-world"
+      content : "If your business needs a large format map for planning purposes, we can design and produce that. Large or small, temporary or permanent, maps can help with business strategy and planning. Maps can be optimized for mark-up, pins, sticky notes, or any combination of these."
+      highlighted : true
+
+    - title : "Trade Show Maps"
+      icon : "ti-world"
+      content : "Want to make an impact at a forthcoming trade show? We can design a display map to impress. Format options include wall maps, banner displays and podiums. Provide us with the specifications and we’ll create the maps and accompanying artwork."
+      highlighted : false
+
+    - title : " Digital Maps"
+      icon : "ti-mobile"
+      content : "Any map which we create can be converted into digital form for use on websites, desktop computers, mobile phones, apps, and GPS devices. We can create dynamic 3D maps which can be interacted with on your websites."
+      highlighted : true
+
+    - title : "Data Collection"
+      icon : "ti-vector"
+      content : "If your project requires data collection (trails, points of interest etc.) then we can go out onto the trails with our GPS equipment and collect that information for you. Our service also includes post-processing so that collected data is tidied up, organized and easy to use."
+      highlighted : false
+
+    - title : "Digitizing and Gereferencing"
+      icon : "ti-vector"
+      content : "We’ll take raster-based map images and digitize them. We’ll take arial photos and digitize them. We’ll take digitized map images and georeference them so they can be used in GIS programs such as Google Earh and QGIS."
+      highlighted : true
+
+    - title : "Special Projects"
+      icon : "ti-panel"
+      content : "Graphic design, map design, data processing/collection, creative design and problem solving are all part of our core skillset. Contact us about any project you might be thinking of and let’s explore ways we can help you."
+      highlighted : false
+
+
+# portfolio
+portfolio:
+  enable : true
+  title : ""
+  item_show : 20
+  # portfolio item comes from 'data/portfolio.yml' item.
+
+# testimonial
+testimonial:
+  enable : false
+  title : "Testimonials"
+  item:
+
+
+    - name : "Bianca Ralston"
+      image : "images/testimonial/avatar-female.png"
+      designation : "Customer"
+      content : "Hi Mr. Traynor, I want to thank you for the wonderful job that you did on my Family Bible. I didn't know when I first found you if you would be able to repair it. Once I got the finished product I was thrilled. To be able to hold and look through this family heirloom means a lot. You described in detail what you would do to repair it and you also were very upfront over pricing and detail. You kept your word on the pricing and the length of time needed to do the job. You were very professional and I couldn't have found a better person to fix my Family Bible. If I ever hear of anyone needing books repaired I will highly recommend you."
+
+    - name : "Pam Hagen"
+      image : "images/testimonial/avatar-female.png"
+      designation : "Customer"
+      content : "Hello Lawrence, I received the most wonderful surprise when I came home from work the other day, a beautifully restored dictionary!! Many many thanks indeed for maintaining the integrity of the dictionary but putting it into a useable condition.  I think my Dad would smile if he knew that it is now still able to be used. I think the idea of what you have done is appropriate for the condition in which the dictionary was sent to you.  If it had been somewhat better it would have been good to keep the original cover etc., but obviously in light of what had to be done this was not possible. I will mail off a cheque to you today. And thank YOU again for the fine workmanship, VERY much appreciated."
+      
+    - name : " Glenford Emerson Greene"
+      image : "images/testimonial/avatar-male.png"
+      designation : "Barrister & Solicitor"
+      content : "Dear Sir, May I thank you for your very prompt and wonderful restoration to two very valued family heirlooms. Your work is simply excellent."
+
+    - name : "Erin"
+      image : "images/testimonial/avatar-female.png"
+      designation : "Customer"
+      content : "The book arrived last night.  Thank you so much! It's beautiful!!! You're an artist."
+
+    - name : "Jim Farrell"
+      image : "images/testimonial/avatar-male.png"
+      designation : "Customer"
+      content : "Brilliant work, many thanks."
+
+    - name : "Len Roberts"
+      image : "images/testimonial/avatar-male.png"
+      designation : "Customer"
+      content : "Thanks for your magical work on the Shelley book."
+
+    - name : "Kathy Fawkes"
+      image : "images/testimonial/avatar-female.png"
+      designation : "Customer"
+      content : "How beautiful your work looks. It will last a long time, I am immensely pleased."
+
+    - name : "Shirley Laurie"
+      image : "images/testimonial/avatar-female.png"
+      designation : "Customer"
+      content : "Thanks again for doing such a great job, it is so beautiful. I think the grand kids want to inherit it now."
+
+    - name : "Kevin Yeates"
+      image : "images/testimonial/avatar-male.png"
+      designation : "Customer"
+      content : "Thank you. Your craftsmanship is superb."
+
+    - name : " Glenford Emerson Greene"
+      image : "images/testimonial/avatar-male.png"
+      designation : "Barrister & Solicitor"
+      content : "May I thank you for your very prompt and wonderful restoration to two very valued family heirlooms."
+
+# client logo slider
+clients_logo_slider:
+  enable : false
+  item:
+    - logo : "images/clients-logo/client-logo-1.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-2.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-3.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-6.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-7.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-8.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-9.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-10.png"
+      URL : "#"  
+  
+    - logo : "images/clients-logo/client-logo-11.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-12.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-13.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-14.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-15.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-16.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-17.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-18.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-19.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-20.png"
+      URL : "#"
+
+    - logo : "images/clients-logo/client-logo-21.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-22.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-23.png"
+      URL : "h#"
+      
+    - logo : "images/clients-logo/client-logo-4.png"
+      URL : "#"
+      
+    - logo : "images/clients-logo/client-logo-5.png"
+      URL : "#"
+
+
+# blog
+blog:
+  enable : false
+  title : "Blogs"
+  # blog post comes from "content/blog" folder
+
+# skill
+skill:
+  enable : false
+  title : "Skills"
+  item:
+    - title : "Web Design"
+      progress : "90%"
+      color : "#fdb157"
+      
+    - title : "Logo Design"
+      progress : "60%"
+      color : "#9473e6"
+      
+    - title : "After Effects"
+      progress : "80%"
+      color : "#bdecf6"
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
+
+# experience
+experience:
+  enable : false
+  title : "Experience"
+  item: 
+    - logo : "images/experience/icon-1.png"
+      title : "Junior UX Designer"
+      company : "WEBEX"
+      duration : "Jan 2007 - Feb 2009"
+      
+    - logo : "images/experience/icon-2.png"
+      title : "UX & UI Designer"
+      company : "AUGMEDIX"
+      duration : "Mar 2009 - Aug 2014"
+      
+    - logo : "images/experience/icon-1.png"
+      title : "Senior UI Designer"
+      company : "THEMEFISHER"
+      duration : "Sep 2014 - Present"
+
+# education
+education:
+  enable : false
+  title : "Education"
+  item:
+    - title : "Marters in UX Design"
+      year : "2006"
+      academy : "Masassusets Institute of Technology"
+      
+    - title : "Honours in Fine Arts"
+      year : "2004"
+      academy : "Harvard University"
+      
+    - title : "Higher Secondary Certificat"
+      year : "2000"
+      academy : "Cardiff School"
+      
+    - title : "Secondary School Certificate"
+      year : "1998"
+      academy : "Cardiff School"
